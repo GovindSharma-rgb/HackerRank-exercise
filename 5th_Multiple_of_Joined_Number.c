@@ -8,7 +8,7 @@ Create a function int buildNumber(int a, int b, int c, int d) and call it from m
 Input Format
 
 Four digits: {A} {B} {C} {D}
-
+ 
 Constraints
 
 0 ≤ each digit ≤ 9
